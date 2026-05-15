@@ -87,7 +87,6 @@
 I enjoy writing clean, reusable, and scalable code while crafting visually polished interfaces that users genuinely enjoy using.
 
 ---
-
 ## 🌍 Connect With Me
 
 <p align="left">
@@ -99,11 +98,14 @@ I enjoy writing clean, reusable, and scalable code while crafting visually polis
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+  <a href="https://t.me/ipouya79" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
   <a href="mailto:pouyabakhshiinfo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <div align="center">
